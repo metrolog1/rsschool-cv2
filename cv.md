@@ -1,7 +1,8 @@
 # Zhukova Anna
 
-Minsk
-**Contacts**
+##### Minsk
+
+## Contacts
 Mobile phone: +375298161988
 E-mail: annazhukova111@yandex.by
 
