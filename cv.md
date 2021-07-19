@@ -19,6 +19,7 @@ E-mail: annazhukova111@yandex.by
 * HTML and CSS knowledge
 * ability to use JIRA
 * DevTools knowledge
+* ability to test
 ### English level - A2 (took English courses) ###
 
 ## Work experience
