@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/metrolog1/rsschool-cv/blob/gh-pages/cv.md
+[metrolog1](https://metrolog1.github.io/rsschool-cv/cv)
