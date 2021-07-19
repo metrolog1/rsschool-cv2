@@ -37,4 +37,4 @@ non-commercial experience as a software tester (6 months)
 
 * reading books
 * sport
-* playing musical instruments
+* playing musical instruments (piano, guitar)
